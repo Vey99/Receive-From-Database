@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecieveFromDB", "RecieveFromDB\RecieveFromDB.csproj", "{AFD892EE-810B-4F96-8CE0-F77B798D3A56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD892EE-810B-4F96-8CE0-F77B798D3A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD892EE-810B-4F96-8CE0-F77B798D3A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD892EE-810B-4F96-8CE0-F77B798D3A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD892EE-810B-4F96-8CE0-F77B798D3A56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65AD8D02-EE6F-4346-A65F-B5863F1E5554}
+	EndGlobalSection
+EndGlobal
